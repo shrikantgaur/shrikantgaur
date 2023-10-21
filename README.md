@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shri Kant Gaur 👋 😄
+# 👋 Hi, I'm Shri Kant Gaur 😄
 
 Hi there! I'm Shri Kant Gaur, a passionate software developer with 3+ years of experience in the world of coding. I'm based in Chandigarh and love to create digital solutions that make a difference.
 
