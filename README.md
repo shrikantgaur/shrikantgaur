@@ -23,7 +23,7 @@ Check them out and let me know what you think!
 
 I'm always open to collaboration and new opportunities. Don't hesitate to reach out:
 
-- GitHub: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/shrikant-gaur-a54331297)
+- GitHub: [![GitHub](https://img.shields.io/badge/GitHub-Follow-brightgreen)](https://github.com/shrikantgaur/)
 - Linkedin: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/shri-kant-gaur-717476171)
 
 Let's create amazing things together!
