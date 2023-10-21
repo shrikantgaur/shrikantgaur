@@ -1,16 +1,28 @@
-### Hi there 👋
+# 👋 Hi, I'm Shri Kant Gaur 👋 
 
-<!--
-**shrikantgaur/shrikantgaur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm Shri Kant Gaur, a passionate software developer with 3+ years of experience in the world of coding. I'm based in Chandigarh and love to create digital solutions that make a difference.
 
-Here are some ideas to get you started:
+## 💼 What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Front-End: HTML, CSS, Bootstrap, JavaScript, jQuery, React.js
+- Back-End: PHP (Symfony), Node.js
+- CMS: WordPress, Shopify, and Prestashop
+
+I'm dedicated to delivering exceptional user experiences and crafting efficient server-side solutions. Feel free to explore my repositories and discover the projects I've been working on.
+
+## 🚀 My Projects
+
+Here are some of the projects I'm proud of:
+
+- https://github.com/shrikantgaur/roamone 
+- https://github.com/shrikantgaur/react-node-crud-app
+
+Check them out and let me know what you think!
+
+## 📫 Let's Connect
+
+I'm always open to collaboration and new opportunities. Don't hesitate to reach out:
+
+- GitHub: https://github.com/shrikantgaur/
+
+Let's create amazing things together!
