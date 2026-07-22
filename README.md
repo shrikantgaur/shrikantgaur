@@ -15,8 +15,10 @@ I'm dedicated to delivering exceptional user experiences and crafting efficient 
 Here are some of the projects I'm proud of:
 
 ### 🔌 WordPress Plugins
-- 🌟 **[Shrikant Social Post Builder](https://github.com/shrikantgaur/shrikant-social-post-builder)** — A professional WordPress plugin to compile and format multiple WordPress posts into ready-to-share social media messages in one click. ([WordPress.org Page](https://wordpress.org/plugins/shrikant-social-post-builder/))
-- 📰 **[SK ePaper Manager](https://wordpress.org/plugins/sk-epaper-manager/)** — A lightweight ePaper management system for WordPress.
+* 🌟 **[Shrikant Social Post Builder](https://wordpress.org/plugins/shrikant-social-post-builder/)** — A professional WordPress plugin to compile and format multiple WordPress posts into ready-to-share social media messages in one click. 
+  🔗 [WordPress.org Page](https://wordpress.org/plugins/shrikant-social-post-builder/) | [GitHub Repository](https://github.com/shrikantgaur/shrikant-social-post-builder)
+* 📰 **[SK ePaper Manager](https://wordpress.org/plugins/sk-epaper-manager/)** — A lightweight ePaper management system for WordPress to publish and display digital newspapers or magazines page-by-page using images or PDF files.
+  🔗 [WordPress.org Page](https://wordpress.org/plugins/sk-epaper-manager/) | [GitHub Repository](https://github.com/shrikantgaur/sk-epaper-manager)
 
 ### 📱 Other Applications
 - 📱 **[RoamOne](https://github.com/shrikantgaur/roamone)**
